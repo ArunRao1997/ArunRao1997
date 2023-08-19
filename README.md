@@ -1,7 +1,7 @@
 
 ###
 
-<h1 align="center">Hi there👋,I'm Arun Rao</h1>
+<h1 align="center">Hi there👋, I'm Arun Rao Nayieni</h1>
 
 ###
 
