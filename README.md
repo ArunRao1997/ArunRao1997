@@ -12,7 +12,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ArunRao1997.ArunRao1997&"  />
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ArunRao1997)](https://github.com/ArunRao1997/github-profile-trophy)
 
 <h2 align="left">About me</h2>
 
