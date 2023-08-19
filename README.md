@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ArunRao1997.ArunRao1997&"  />
-</div>
 
 ###
 
@@ -11,6 +8,10 @@
 <h3 align="center">Passionate Full Stack Developer with over <b>3 years of experience</b></h3>
 
 ###
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ArunRao1997.ArunRao1997&"  />
+</div>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2 align="left">About me</h2>
