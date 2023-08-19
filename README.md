@@ -11,6 +11,7 @@
 <h3 align="center">Passionate Full Stack Developer with over <b>3 years of experience</b></h3>
 
 ###
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2 align="left">About me</h2>
 
