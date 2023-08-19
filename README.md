@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently doing <b>Master's degree</b> <br>🤝 I’m looking for a new role <b>Software Developer</b><br>📄 Know about my experiences https://drive.google.com/file/d/179lcoRVX2M8Cslmj9FnOwxcZk6Q2WO3w/view?usp=sharing<br>⚡ Fun fact: I have an <b>API superpower</b></p>
+<p align="left">🔭 I’m currently doing <b>Master's degree</b> at Stevens Institute Of Technology <br>🤝 I’m looking for a new role <b>Software Developer</b><br>📄 Know about my experiences https://drive.google.com/file/d/179lcoRVX2M8Cslmj9FnOwxcZk6Q2WO3w/view?usp=sharing<br>⚡ Fun fact: I have an <b>API superpower</b></p>
 
 ###
 
