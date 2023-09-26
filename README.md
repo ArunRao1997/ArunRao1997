@@ -5,7 +5,7 @@
 
 ###
 
-<h3 align="center">Passionate Full Stack Developer with over <b>3 years of experience</b></h3>
+<h3 align="center">A Passionate Full Stack Developer with over <b>3 years of experience</b></h3>
 
 ###
 <div align="left">
