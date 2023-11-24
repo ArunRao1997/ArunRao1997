@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🔭 Currently pursuing a <b>Master's degree</b> at Stevens Institute Of Technology <br>🤝 Actively seeking new opportunities as a <b>Software Developer</b><br>📄 Explore my experiences: [View Resume] https://drive.google.com/file/d/179lcoRVX2M8Cslmj9FnOwxcZk6Q2WO3w/view?usp=sharing<br>⚡ Fun fact: I have an <b>API superpower</b></p>
+<p align="left">🔭 Currently pursuing a <b>Master's degree</b> at Stevens Institute Of Technology <br>🤝 Actively seeking new opportunities as a <b>Software Developer</b><br>📄 Explore my experiences: [View Resume] https://drive.google.com/drive/u/0/my-drive<br>⚡ Fun fact: I have an <b>API superpower</b></p>
 
 ###
 
