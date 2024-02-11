@@ -5,7 +5,7 @@
 
 ###
 
-<h3 align="center">A Passionate Software Engineer with over <b>4 years of experience</b></h3>
+<h3 align="center">A Software Engineer with over <b>4 years of experience</b></h3>
 
 ###
 <div align="left">
