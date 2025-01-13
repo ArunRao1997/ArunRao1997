@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🔭 Holds a <b>Master's degree in Computer Software Engineering </b> From Stevens Institute Of Technology <br>🤝 Actively seeking new opportunities as a <b>Software Engineer </b><br>📄 Explore my experiences: [View Resume] https://drive.google.com/file/d/17D2LEx7uUE_IuWQ_SOVlJde2UKZtrDCH/view?usp=sharing<br>⚡ Fun fact: I have an <b>API superpower</b></p>
+<p align="left">🔭 Holds a <b>Master's degree in Computer Software Engineering </b> From Stevens Institute Of Technology <br>🤝 Actively seeking new opportunities as a <b>Software Engineer </b><br>📄 Explore my experiences: [View Resume] https://drive.google.com/file/d/1F8HBAHKafITRU7cNTPbi7OtPhWYw7jYz/view?usp=sharing<br>⚡ Fun fact: I have an <b>API superpower</b></p>
 
 ###
 
