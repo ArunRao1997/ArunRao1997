@@ -62,7 +62,7 @@ Hoboken, New Jersey — NYC Metro • Open to Remote US & Relocation (incl. Bay 
 - Built MCP engineering automation (3 agents / 9 tools / Temporal) and the Java/AWS real-time sorting system (+87% SLA).
 - Diagnosed cross-region auth failures by decompiling Java bytecode & tracing AWS SigV4 / STS flows — delivered a system-wide fix.
 
-### <img src="https://cdn.simpleicons.org/hcl" width="20" alt="HCLTech logo"> HCL Technologies — Software Engineer
+### <img src="https://cdn.simpleicons.org/hcl" width="20" alt="HCLTech logo"> HCL Technologies — Senior Software Engineer
 **May 2023 – Apr 2025 | LLM Evaluation, FinTech & Payments**
 
 - Built a **human-feedback LLM evaluation pipeline** (Python, Hugging Face) — reviewer preferences to ranked response data & quality signals for relevance, factuality & policy adherence.
@@ -86,17 +86,16 @@ Hoboken, New Jersey — NYC Metro • Open to Remote US & Relocation (incl. Bay 
 
 ---
 
-## Selected Project Highlights
+## Healthcare Systems & Legacy Modernization
 
 - **Appointments and Registration System** — Modernized a legacy COBOL-based monolith into a modern microservices architecture with Java (Spring Boot REST APIs), React, Node.js, AWS, and SQL.
 - **Health Insurance System** — Built a bill-paying system and an insurance premium calculator with Python, Java, and PostgreSQL.
 
 ---
 
-## AI / ML — Authentic, Production-First
+## AI & Machine Learning Engineering
 
-> **What I do:** Production LLM & agentic systems — architecture, memory, tool use, evaluation, and cost / latency trade-offs.
-> **What I don't claim:** Deep-learning research papers or training foundation models from scratch.
+Production LLM and agentic systems — architecture, memory, tool use, evaluation, and cost and latency trade-offs.
 
 | Area | Hands-on in production |
 |---|---|
