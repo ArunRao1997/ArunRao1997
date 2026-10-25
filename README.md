@@ -1,73 +1,172 @@
+<div align="center">
 
-###
+# Arun Rao Nayineni
 
-<h1 align="center">Hi there👋, I'm Arun Rao Nayineni</h1>
+### Software Engineer @ Amazon | Distributed Systems | AI/ML Infrastructure | Agentic AI
 
-###
+![Open to SDE II / Senior SWE](https://img.shields.io/badge/Open_to-SDE_II_/_Senior_SWE-0A66C2?style=for-the-badge)
+![Location](https://img.shields.io/badge/📍_Tempe_/_Phoenix,_AZ-232F3E?style=for-the-badge&logoColor=white)
+![Remote / Relocation](https://img.shields.io/badge/Remote_/_Relocation-Open-2ea44f?style=for-the-badge)
+![Experience](https://img.shields.io/badge/Experience-~7_Years-FF9900?style=for-the-badge)
 
-<h3 align="center">A Software Engineer with over <b>4+ years of experience</b></h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rao--nayineni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rao-nayineni/)
+[![Email](https://img.shields.io/badge/Email-rao.nayinenii@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rao.nayinenii@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ArunRao1997-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArunRao1997)
 
-###
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ArunRao1997.ArunRao1997&"  />
+**Backend • Full-Stack • Infrastructure — building production distributed systems and production AI systems that ship, scale, and can be evaluated.**
+
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ArunRao1997)](https://github.com/ArunRao1997/github-profile-trophy)
+---
 
-<h2 align="left">About me</h2>
+## ⚡ In 10 Seconds
 
-###
+|  |  |
+|---|---|
+| **Now** | Software Engineer @ **Amazon** (May 2025 – Present) |
+| **Focus** | Distributed systems, AI/ML infrastructure, agentic AI, payments & post-trade systems |
+| **Impact** | +87% outbound trailer SLA • ~4 weeks saved per service via MCP automation • 2,588+ tickets via Kendra RAG automation |
+| **Stack** | Java • Python • TypeScript • AWS • Kafka • LangChain / LangGraph • MCP • RAG |
+| **Looking for** | **SDE II / Senior SWE** — Backend / Full-Stack / Infra / AI-ML Infra — Remote US / Relocation |
+| **Education** | M.S. Computer Software Engineering, Stevens Institute of Technology |
 
-<p align="left">🔭 Holds a <b>Master's degree in Computer Software Engineering </b> From Stevens Institute Of Technology <br>🤝 Actively seeking new opportunities as a <b>Software Engineer </b><br>📄 Explore my experiences: [View Resume] https://drive.google.com/file/d/1F8HBAHKafITRU7cNTPbi7OtPhWYw7jYz/view?usp=sharing<br>⚡ Fun fact: I have an <b>API superpower</b></p>
+> I don't just build demos. I build **production LLM & agentic systems with evaluation harnesses, memory, guardrails, and rollback** — on top of large-scale distributed systems.
 
-###
+---
 
-<h2 align="left">I code with</h2>
+## 🚀 Impact Highlights
 
-###
+- **Zero-downtime migration @ Amazon** — Cross-region migration of a **5-service, stateful forecasting platform** spanning **7+ AWS data stores** and **17 service dependencies**, with shadow-traffic validation, phased rollout & rollback.
+- **Agentic AI in production** — **3-role LangGraph system** (supervisor/router + 2 specialized agents) with typed StateGraph, conditional routing, tool calling & human-in-the-loop approval boundaries.
+- **Engineering automation** — **MCP-based automation: 3 AI agents, 9 tool integrations**, Temporal-backed orchestration — **saving ~4 weeks of engineering effort per service** during AWS migrations.
+- **Real-time systems** — Java + AWS messaging sorting system: **+87% outbound trailer SLA adherence**.
+- **Risk & RAG at scale** — Sortation Risk for **90+ Non-OBDA sites, launched at 4 sites**; Kendra RAG automation covering **2,588+ tickets / 20+ groups**.
+- **FinTech depth** — Trade reconciliation, post-trade operations, and payments APIs across middle & back-office systems.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="tomcat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-</div>
+---
 
-###
+## 💼 Experience
+
+### 🟠 Amazon — Software Engineer
+**May 2025 – Present | Distributed Systems & AI/ML Infrastructure**
+
+- Led the zero-downtime cross-region migration above; designed validation, rollout & rollback end-to-end.
+- Architected the 3-role LangGraph agent system with **two-tier memory — Redis checkpoints + PostgreSQL durable context**, scoped access controls.
+- Built the **LLM evaluation harness**: scenario replay, deterministic graders, LLM-as-Judge, groundedness, tool-trace / schema / SQL validation, latency & token-cost analysis, 3-provider benchmarking.
+- Built MCP engineering automation (3 agents / 9 tools / Temporal) and the Java/AWS real-time sorting system (+87% SLA).
+- Diagnosed cross-region auth failures by decompiling Java bytecode & tracing AWS SigV4 / STS flows — delivered a system-wide fix.
+
+### 🔵 HCL Technologies — Software Engineer
+**May 2023 – Apr 2025 | LLM Evaluation, FinTech & Payments**
+
+- Built a **human-feedback LLM evaluation pipeline** (Python, Hugging Face) — reviewer preferences → ranked response data & quality signals for relevance, factuality & policy adherence.
+- Designed **trade reconciliation workflows** for post-trade operations: internal vs. counterparty records, discrepancy detection & exception resolution.
+- Built **Kafka event-driven pipelines + Elasticsearch** for transaction state tracking & real-time visibility across **middle & back-office systems**.
+- Developed **payments REST APIs** — TypeScript, Node.js, SQL, AWS Lambda, Stripe — for payment processing & transaction management.
+- Productionized LLM-backed services (FastAPI, PostgreSQL, Redis, Docker, Terraform, Jenkins, AWS). **+30% query performance, −70% critical production defects.**
+
+### ⚪ Tata Consultancy Services — Software Engineer, Backend
+**Jan 2020 – Jul 2022**
+
+- REST APIs + **500+ unit tests** → **40% faster deployment cycle**. S3 → Redshift ETL pipelines for cleansing, transformation & loading.
+- Jenkins + Docker CI/CD → **−70% deployment latency, −90% anomalies**.
+
+### ⚪ TalentSprint — Junior Software Engineer
+**Jan 2019 – Dec 2019**
+
+- Java / Spring Boot REST APIs supporting **10K+ concurrent users**, Redis caching, JWT auth & multithreaded processing.
+
+---
+
+## 🤖 AI / ML — Authentic, Production-First
+
+> **What I do:** Production LLM & agentic systems — architecture, memory, tool use, evaluation, and cost / latency trade-offs.
+> **What I don't claim:** Deep-learning research papers or training foundation models from scratch.
+
+| Area | Hands-on in production |
+|---|---|
+| **Agentic AI** | LangChain, LangGraph, StateGraph, MCP, multi-agent systems, tool calling, human-in-the-loop |
+| **Retrieval** | RAG, Amazon Kendra, agent memory (Redis + PostgreSQL), durable context |
+| **Model Adaptation** | Hugging Face, PEFT, LoRA, RLHF / human-feedback pipelines |
+| **LLM Evaluation** | Scenario replay, deterministic graders, LLM-as-Judge, groundedness, tool-trace validation, SQL safety, latency & token-cost analysis |
+| **NLP Foundations** | Ranking & quality signals for relevance, factuality & policy adherence from human feedback |
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Skills |
+|---|---|
+| **Languages & Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) Spring Boot • FastAPI • Node.js • REST APIs • Microservices • Multithreading |
+| **Distributed & Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) SQS • DynamoDB • S3 • Redis • PostgreSQL • OpenSearch / Elasticsearch • Temporal |
+| **AI / ML & Agents** | LangChain • LangGraph • MCP • RAG • Hugging Face • PEFT • LoRA • RLHF • LLM-as-Judge Evaluation |
+| **Payments & FinTech** | Stripe • Payment Processing • Trade Reconciliation • Post-Trade Operations • Middle & Back-Office Systems |
+
+---
+
+## 📂 Featured Projects
+
+| Project | What it shows |
+|---|---|
+| [**EcomUserService**](https://github.com/ArunRao1997/EcomUserService) | Microservice design — user service for an e-commerce backend |
+| [**EcomProductService**](https://github.com/ArunRao1997/EcomProductService) | Microservice design — product / catalog service |
+| [**spring-authorization-server**](https://github.com/ArunRao1997/spring-authorization-server) | Auth & security — Spring Authorization Server / OAuth patterns |
+| [**kafka-demo**](https://github.com/ArunRao1997/kafka-demo) | Event-driven systems — Kafka producers, consumers & streaming |
+| [**ratelimiter**](https://github.com/ArunRao1997/ratelimiter) | Systems design — rate limiting for APIs at scale |
+| [**splitwise**](https://github.com/ArunRao1997/splitwise) | Backend LLD — expense-sharing domain modelling |
+| [**book-my-show**](https://github.com/ArunRao1997/book-my-show) | Backend LLD — booking, concurrency & seat allocation |
+| [**backend-lld**](https://github.com/ArunRao1997/backend-lld) | Low-level design — OOP, design patterns & clean architecture |
+| [**Search_engine**](https://github.com/ArunRao1997/Search_engine) | Search & indexing fundamentals |
+| [**TasKManagerApp**](https://github.com/ArunRao1997/TasKManagerApp) | Full-stack task management application |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArunRao1997&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArunRao1997&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ArunRao1997&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+![Arun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArunRao1997&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArunRao1997&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ArunRao1997&theme=tokyonight&hide_border=true)
+
 </div>
 
-###
+---
+
+## 🎓 Education
+
+| Degree | School |
+|---|---|
+| **M.S., Computer Software Engineering** | Stevens Institute of Technology |
+| **B.S., Mechanical Engineering** | JNTUH (Jawaharlal Nehru Technological University Hyderabad) |
+
+<details>
+<summary><b>How I work — for hiring managers & technical leads</b></summary>
+
+- **Systems first:** I design for failure — shadow traffic, phased rollouts, rollback, and observability before launch.
+- **AI with proof:** Every agent / LLM feature ships with an evaluation harness — groundedness, tool-trace & SQL safety, latency and token cost, not just a demo.
+- **Domain depth:** Logistics & forecasting at Amazon; payments, reconciliation & post-trade in FinTech — I understand the business workflow behind the API.
+- **Full ownership:** APIs, data pipelines, infra-as-code, CI/CD, and production debugging — including bytecode-level root-cause work.
+
+</details>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect — I'm Interviewing for SDE II / Senior Roles
+
+**Backend • Full-Stack • Infrastructure • AI/ML Infrastructure • Agentic AI**
+Remote (US) • Open to relocation • Based in Tempe / Phoenix, AZ
+
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-Let%27s_Talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rao-nayineni/)
+[![Email Me](https://img.shields.io/badge/Email-rao.nayinenii@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rao.nayinenii@gmail.com)
+
+*If you're hiring for distributed systems or production AI — I'd love a conversation.*
+
+⭐ **Profile views**
+
+![Profile Views](https://komarev.com/ghpvc/?username=ArunRao1997&label=Profile%20views&color=0e75b6&style=flat)
+
+</div>
