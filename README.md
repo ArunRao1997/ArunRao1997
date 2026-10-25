@@ -46,6 +46,7 @@ Hoboken, New Jersey — NYC Metro • Open to Remote US & Relocation (incl. Bay 
 - **Real-time systems** — Java + AWS messaging sorting system: **+87% outbound trailer SLA adherence**.
 - **Risk & RAG at scale** — Sortation Risk for **90+ Non-OBDA sites, launched at 4 sites**; Kendra RAG automation covering **2,588+ tickets / 20+ groups**.
 - **FinTech depth** — Trade reconciliation, post-trade operations, and payments APIs across middle & back-office systems.
+- **Legacy modernization** — COBOL monolith re-architected into Java Spring Boot microservices; health-insurance premium calculator built with Python.
 
 ---
 
@@ -60,7 +61,7 @@ Hoboken, New Jersey — NYC Metro • Open to Remote US & Relocation (incl. Bay 
 - Built MCP engineering automation (3 agents / 9 tools / Temporal) and the Java/AWS real-time sorting system (+87% SLA).
 - Diagnosed cross-region auth failures by decompiling Java bytecode & tracing AWS SigV4 / STS flows — delivered a system-wide fix.
 
-### <img src="https://www.google.com/s2/favicons?domain=hcltech.com&sz=64" width="20" alt="HCL Technologies logo"> HCL Technologies — Software Engineer
+### <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/HCLTech-new-logo.svg" height="22" alt="HCLTech logo"> — Software Engineer
 **May 2023 – Apr 2025 | LLM Evaluation, FinTech & Payments**
 
 - Built a **human-feedback LLM evaluation pipeline** (Python, Hugging Face) — reviewer preferences to ranked response data & quality signals for relevance, factuality & policy adherence.
@@ -81,6 +82,13 @@ Hoboken, New Jersey — NYC Metro • Open to Remote US & Relocation (incl. Bay 
 **Jan 2019 – Dec 2019**
 
 - Java / Spring Boot REST APIs supporting **10K+ concurrent users**, Redis caching, JWT auth & multithreaded processing.
+
+---
+
+## Selected Project Highlights
+
+- **Appointments and Registration System** — Modernized a legacy COBOL-based monolith into a modern microservices architecture with Java (Spring Boot REST APIs), React, Node.js, AWS, and SQL.
+- **Health Insurance System** — Built a bill-paying system and an insurance premium calculator with Python, Java, and PostgreSQL.
 
 ---
 
