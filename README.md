@@ -11,6 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rao--nayineni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rao-nayineni/)
 [![GitHub](https://img.shields.io/badge/GitHub-ArunRao1997-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArunRao1997)
+[![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-232F3E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ArunRao1997/ArunRao1997/blob/main/Arun_Nayineni_Resume.pdf)
 
 **Backend - Full-Stack - Infrastructure — building production distributed systems and production AI systems that ship, scale, and can be evaluated.**
 
@@ -61,7 +62,7 @@ Hoboken, New Jersey — NYC Metro • Open to Remote US & Relocation (incl. Bay 
 - Built MCP engineering automation (3 agents / 9 tools / Temporal) and the Java/AWS real-time sorting system (+87% SLA).
 - Diagnosed cross-region auth failures by decompiling Java bytecode & tracing AWS SigV4 / STS flows — delivered a system-wide fix.
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/HCLTech-new-logo.svg" height="22" alt="HCLTech logo"> — Software Engineer
+### <img src="https://cdn.simpleicons.org/hcl" width="20" alt="HCLTech logo"> HCL Technologies — Software Engineer
 **May 2023 – Apr 2025 | LLM Evaluation, FinTech & Payments**
 
 - Built a **human-feedback LLM evaluation pipeline** (Python, Hugging Face) — reviewer preferences to ranked response data & quality signals for relevance, factuality & policy adherence.
@@ -177,6 +178,7 @@ Remote (US) - Open to relocation - Hoboken, NJ — NYC Metro - Open to Remote US
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-Let%27s_Talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rao-nayineni/)
 [![GitHub](https://img.shields.io/badge/GitHub-ArunRao1997-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArunRao1997)
+[![View Résumé](https://img.shields.io/badge/View_R%C3%A9sum%C3%A9-PDF-232F3E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ArunRao1997/ArunRao1997/blob/main/Arun_Nayineni_Resume.pdf)
 
 *If you're hiring for distributed systems or production AI — I'd love a conversation.*
 
